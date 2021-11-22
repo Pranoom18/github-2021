@@ -18,3 +18,15 @@ repository contains github files
 
 ![kohli dhoni](https://swall.teahub.io/photos/small/300-3005669_file-image-of-virat-kohli-with-ms-dhoni.jpg)
 
+* Fruits
+   * mangoes
+   * grapes
+   * apples
+* vegetables
+   * peas
+   * tamato
+   * brinjal
+
+Table 1| Table 2
+-------|--------
+Name | Pranoom
